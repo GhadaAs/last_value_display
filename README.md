@@ -24,11 +24,12 @@ The project consists of a web page that allows you to control a robot by sending
 ### Control Panel
 ![Control Panel Screenshot](https://github.com/GhadaAs/last_value_display/blob/main/Screenshot%202024-07-12%20081100.png)
 
+### Database Structure
+![Database Structure](https://github.com/GhadaAs/last_value_display/blob/main/Screenshot%202024-07-12%20081116.png)
+
 ### Last Command Display
 ![Last Command Display](https://github.com/GhadaAs/last_value_display/blob/main/Screenshot%202024-07-12%20081135.png)
 
-### Database Structure
-![Database Structure](https://github.com/GhadaAs/last_value_display/blob/main/Screenshot%202024-07-12%20081116.png)
 
 ## Contribution
 
