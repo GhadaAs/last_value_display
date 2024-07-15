@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+}
+
+.control-panel {
+    display: inline-block;
+    text-align: center;
+}
+
+button {
+    padding: 20px 40px;
+    margin: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 50%;
+    background-color: #ddd;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ccc;
+}
+
+button:focus {
+    outline: none;
+}
